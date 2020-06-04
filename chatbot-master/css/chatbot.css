@@ -39,11 +39,11 @@ body{
 
 .chat-screen{
 	width:500px;
-	height:400px;
 	background-color:white;
 	border: 1px solid #999;
 	padding: 10px;
     overflow-y: scroll;
+    height: 39vh;
 }
 
 .chat-screen .sender{
